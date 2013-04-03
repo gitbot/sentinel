@@ -1,0 +1,5 @@
+pyyaml==3.10
+-e  git://github.com/lakshmivyas/fswrap.git@refactor/python3#egg=fswrap
+-e  git://github.com/lakshmivyas/commando.git@refactor/python3#egg=commando
+-e  git://github.com/facebook/tornado.git#egg=tornado
+-e  git://github.com/mrjoes/toredis.git#egg=toredis
